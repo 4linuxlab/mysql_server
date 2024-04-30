@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   role_name: mysql_server
-  author: sua_conta_github
+  author: 4linuxlab
   description: Instalacao e Configuracao do servidor MySQL
   company: 4Linux
   license: GPLv3
